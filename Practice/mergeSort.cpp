@@ -30,6 +30,10 @@ void merge(int arr[], int low, int mid, int high){
         right++;
     }
 
+    // heavy chiz
+    for (int i = low; i<=high; i++){
+        arr[i] = sortedArr[i-low];
+    }
 
 }
 
