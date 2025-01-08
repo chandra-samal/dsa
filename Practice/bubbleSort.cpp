@@ -13,8 +13,8 @@ void bubbleSort(int arr[], int n){
 }
 
 int main(){
-    int n = 5;
-    int arr[n] = {3, 56, 45, 69, 23};
+    int n = 10;
+    int arr[n] = {28004, 23544, 32504, 29493, 17013, 17850, 18952, 12089, 5126, 10353};
     bubbleSort(arr, n);
 
     for (auto itr:arr){

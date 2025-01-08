@@ -1,3 +1,5 @@
+// The Time complexity of Merge Sort is O(NlogN), and the space Complexity is O(N)
+
 #include <bits/stdc++.h>
 
 // Merge Sort basically means Divide & Merge
