@@ -1,2 +1,2 @@
 # dsa
-My competative programming templates
+my dsa practice files
